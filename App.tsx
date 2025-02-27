@@ -17,8 +17,6 @@ const App = () => {
       <Tombol/>
       <Tombol/>
       <Tombol/>
-      <Card>
-      </Card>
     </View>
   )
 }
